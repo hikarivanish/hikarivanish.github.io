@@ -7,11 +7,11 @@ title: 拆解y485/y485p等联想笔记本
 
 ### 拆底面
 
-首先**拿掉电池**，这个在加内存或加ssd时特别容易忘记。手摸大金属释放静电。
+首先**拿掉电池**，这个在加内存或加ssd时特别容易忘记。手摸大金属**释放静电**。
 
 ![y485-battery.jpg]({{ site.url }}/assets/y485-battery.jpg)
 
-拆掉几颗螺丝就能看见硬盘了，无线网卡盘就是mSata接口，可以加ssd
+拆掉几颗螺丝就能看见硬盘了，无线网卡旁就是mSata接口，可以加ssd
 
 ![y485-d.jpg]({{ site.url }}/assets/y485-d.jpg)
 
@@ -45,6 +45,7 @@ title: 拆解y485/y485p等联想笔记本
 ![y485-c-naked.jpg]({{ site.url }}/assets/y485-c-naked.jpg)
 
 然后就可以把风扇弄开，清灰了。
+可以参考这里专业人员推出的[专业的视频](http://v.youku.com/v_show/id_XNTM5MjM5NTQ4.html)
 
 
 
