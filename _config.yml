@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            S4H.ME
 tagline:          'A Blog For Hikari Vanish'
-description:      'A Blog For Hikari Vanish,Nothing Else.'
+description:      'A Blog For Hikari,Nothing Else.'
 url:              http://www.s4h.me
 baseurl:          /
 
