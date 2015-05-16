@@ -19,8 +19,8 @@ title: 用cain&abel嗅探局域网数据
 
 4. 在arp routing中添加 你的`目标机器ip`和`网关ip`
 
-    ！[cainnewrouting.PNG]({{ site.url }}/assets/cainnewrouting.PNG)
+    ![cainnewrouting.PNG]({{ site.url }}/assets/cainnewrouting.PNG)
 
 5. 开启arp按钮和嗅探按钮，等着收鱼就好了
 
-    ！[cainresult.PNG]({{ site.url }}/assets/cainresult.PNG)
+    ![cainresult.PNG]({{ site.url }}/assets/cainresult.PNG)
