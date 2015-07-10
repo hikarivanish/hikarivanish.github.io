@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 无线网络的信道和网速
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 在ubuntu上安装jdk
 ---
 
