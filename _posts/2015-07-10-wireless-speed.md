@@ -11,7 +11,7 @@ title: 无线网络的信道和网速
 
 这里推荐软件： [wirelessMon](http://www.passmark.com/products/wirelessmonitor.htm)
 
-通过wirelessMON看到信道6的无线网络很多，显示红色，而我原来用的也是信道6。
+通过wirelessMon看到信道6的无线网络很多，显示红色，而我原来用的也是信道6。
 
 ![wirelessmon]({{ site.url }}/assets/wirelessmon.PNG)
 
