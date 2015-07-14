@@ -17,7 +17,7 @@ eclipse的锅。
 
 而一到idea下就会出问题，因为spring在classpath下找不到application.properties，通常会报找不到驱动类(class not found)错误。这才是符合逻辑的。当时这个问题让我很困惑，为什么同一个项目eclipse没问题，idea就不能运行。
 
-##### 注意点3：<scope\>provided</scope\>
+##### 注意点3：\<scope\>provided\</scope\>
 
 还是eclipse的锅。
 
